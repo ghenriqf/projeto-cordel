@@ -1,2 +1,33 @@
-# projeto-cordel
-Pequeno projeto feito durante o curso de HTML e CSS do professor Gustavo Guanabara. Recriação de um site com layout inspirado em literatura de cordel, utilizando técnicas básicas de HTML5 e CSS3.
+# Projeto Cordel
+
+Este é um projeto desenvolvido durante o curso de HTML5 e CSS3 do canal Curso em Vídeo, ministrado pelo professor Gustavo Guanabara. O objetivo foi praticar os conceitos aprendidos construindo uma página web inspirada na estética da literatura de cordel, utilizando efeitos visuais com CSS e estrutura semântica com HTML.
+
+## Acesse o projeto online
+[Clique aqui para ver o site](https://ghenriqf.github.io/projeto-cordel/)
+
+## Conteúdo abordado
+
+Neste projeto, foram utilizados os seguintes conceitos:
+
+- Estrutura básica HTML
+- Tags semânticas (`<header>`, `<main>`, `<section>`, `<footer>`, etc.)
+- Estilização com CSS
+- Importação de fontes externas
+- Efeito parallax com imagens de fundo
+- Responsividade básica
+- Criação de um layout vertical com seções em tela cheia
+
+## Prints do projeto
+
+### Página inicial  
+*Print 1*
+
+### Efeito parallax com texto centralizado  
+*Print 2*
+
+### Encerramento com créditos  
+*Print 3*
+
+## Créditos
+
+Projeto realizado durante as aulas do Curso em Vídeo, com orientação de Gustavo Guanabara.
