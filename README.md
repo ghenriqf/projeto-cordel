@@ -17,16 +17,7 @@ Neste projeto, foram utilizados os seguintes conceitos:
 - Responsividade básica
 - Criação de um layout vertical com seções em tela cheia
 
-## Prints do projeto
-
-### Página inicial  
-*Print 1*
-
-### Efeito parallax com texto centralizado  
-*Print 2*
-
-### Encerramento com créditos  
-*Print 3*
+![Demonstração do site](imagens/demonstracao.gif)
 
 ## Créditos
 
