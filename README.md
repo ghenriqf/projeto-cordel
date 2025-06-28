@@ -17,7 +17,7 @@ Neste projeto, foram utilizados os seguintes conceitos:
 - Responsividade básica
 - Criação de um layout vertical com seções em tela cheia
 
-![Demonstração do site](imagens/demonstracao.gif)
+![Demonstração do site](gif/demonstracao.gif)
 
 ## Créditos
 
